@@ -15,8 +15,6 @@ Passionate about physics and fascinated by vehicles, I enjoy diving into the dyn
 
 ## Connect with Me
 
-I'm always excited to collaborate and learn from others who share my passion for robotics and autonomous driving. Feel free to connect with me on:
-
 - 🐙 [GitHub](https://github.com/Matteo-Mas)
 - 💼 [LinkedIn](https://www.linkedin.com/in/matteo-masoni-ba3b4a255/)
 
