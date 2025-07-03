@@ -1,11 +1,17 @@
 # Hi there 👋
 
+## About Me 
+
+Passionate about physics and fascinated by vehicles, I enjoy diving into the dynamics of motion. Whether it’s engines, simulations, or mechanical systems, I love exploring how things move and why they move that way.
+
 ## Education 
 
 - 🎓 Master's Degree in Vehicle Engineering - [University of Pisa](https://www.unipi.it/)
 - 🎓 Bachelor's Degree in Mechanical Engineering - [University of Pisa](https://www.unipi.it/)
 
-## 
+## Research Interests
+
+- 🏎️ Minimum Lap Time Simulations
 
 ## Connect with Me
 
